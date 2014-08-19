@@ -9,6 +9,5 @@ Last year bachelor degree in computing science.
 - _src_	   : the latex file. 
 
 
-
-[1]: http://upload.wikimedia.org/wikipedia/commons/5/58/Logo_sqli_group.png
-[2]: http://www.nouvelle-univ-bordeaux.fr/wp-content/uploads/2014/01/Universite-Bordeaux-RVB-07-992x288.jpg
+[1]: http://www.sqli.ch/files/2014/06/logo_sqli_2014.png
+[2]: http://www.aquitaine-euskadi-navarre.com/News/files/Info/image/medium/654f901871b297bb6ad0ef2e16e33ddb.jpg
