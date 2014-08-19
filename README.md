@@ -1,4 +1,5 @@
-internship-L3
+Internship report.
 =============
 
-Internship report. Bachelor degree in computing science 
+
+Last year bachelor degree in computing science.
