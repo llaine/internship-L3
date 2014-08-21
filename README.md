@@ -5,8 +5,6 @@ Internship report.
 Last year bachelor degree in computing science.
 
 
-- _assets_ : Contains all the asset of the latex
-- _src_	   : the latex file. 
 
 
 [1]: http://www.sqli.ch/files/2014/06/logo_sqli_2014.png
